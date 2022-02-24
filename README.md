@@ -2,7 +2,7 @@
 
 The intention of this challenge is to see your code style and structure and approach to a basic set of requirements. We are not expecting a pixel perfect UI but please feel free to get creative!
 
-# Instructions
+## Instructions
 
 - copy this readme and add to new github repo (private)
 - build your solution and add any notes to the readme you like (can also add some screenshots)
